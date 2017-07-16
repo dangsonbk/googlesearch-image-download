@@ -14,6 +14,6 @@ This is a small script to download images from google search result.
 
 This list is used to search keywords. You can edit this list to search for google images of your choice.
 
-'search_limit = 4`
+`search_limit = 4`
 
 Limit number of images will be saved
