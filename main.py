@@ -22,7 +22,7 @@ import re
 #This list is used to search keywords. You can edit this list to search for google images of your choice. You can simply add and remove elements of the list.
 search_keyword = ['giang mai']
 search_limit = 4
-GOOGLESEARCHLINK = 'https://www.google.com/search?q={}&espv=2&biw=1366&bih=667&site=webhp&source=lnms&tbm=isch&sa=X&ei=XosDVaCXD8TasATItgE&ved=0CAcQ_AUoAg'
+GOOGLESEARCHLINK = 'https://www.google.com/search?q={}&tbm=isch'
 ########### End of Editing ###########
 
 #Downloading entire Web Document (Raw Page Content)
